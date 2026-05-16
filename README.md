@@ -5,7 +5,7 @@
 A passionate Programmer and Developer based in India. 🚀
 
 - 🔭 I’m currently working on building meaningful and creative web applications.
-- ✔️ Completed my graduation from St. Xavier's College Ahmedabad in Bachelor of Computer Applications
+- ✔️ Completed my graduation from St. Xavier's College Ahmedabad in Bachelor of Computer Applications.
 - 🌱 I’m currently learning LLMs for building AI applications.
 - 💬 How to reach me: [Akshat Singh](https://www.linkedin.com/in/akshathere)
 
