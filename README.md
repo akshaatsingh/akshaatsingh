@@ -1,12 +1,13 @@
 # Hi, I'm Akshat Singh! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshaatsingh&color=blue-gradient)
+![Profile Views](https://komarev.com/ghpvc/?username=akshaatsingh&color=blue)
 
 A passionate Programmer and Developer based in India. 🚀
 
 - 🔭 I’m currently working on building meaningful and creative web applications.
-- ⚡ Fun fact: I love spending time with my dog! 🐾
-- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshathere)
+- ✔️ Completed my graduation from St. Xavier's College Ahmedabad in Bachelor of Computer Applications
+- 🌱 I’m currently learning LLMs for building AI applications.
+- 💬 How to reach me: [Akshat Singh](https://www.linkedin.com/in/akshathere)
 
 ## 💻 Tech Stack
 
